@@ -1,6 +1,6 @@
 # Angular Homes App
 
-![Alt Text](https://imgur.com/a/hsnAyZU)
+![](https://github.com/abdusamaraie/home-listing-angular/blob/main/src/assets/home-app.gif)
 
 - Install Angular if you don't have it installed
 
